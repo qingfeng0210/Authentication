@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="company">
+        <item>中国科学院信息工程研究所</item>
+        <item>中国科学院计算技术研究所</item>
+        <item>中国科学院自动化研究所</item>
+    </string-array>
+
+</resources>
